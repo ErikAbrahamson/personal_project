@@ -1,0 +1,14 @@
+/* Columns */
+
+.column {
+  margin: 0 auto;
+  padding: 15px 0;
+  display: inline-block;
+  width: 50%;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
